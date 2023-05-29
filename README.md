@@ -1,0 +1,3 @@
+# Scalable Regression Modeling: Tackling Large Datasets with Limited Memory
+In this post, we delve into the challenges of working with large datasets when your available RAM is limited. We share our experience and present a practical solution that allowed us to build a regression model successfully, even with a memory constraint. Discover how we tackled this problem by distributing the data into manageable chunks and training our model on each chunk. Whether you're a data scientist, machine learning enthusiast, or simply interested in scalable modeling, 
+this blog post is a must-read to overcome the hurdles of memory limitations in the realm of large-scale regression.
